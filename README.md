@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Développeur Python | Automatisation & Sécurité  
 
-<!--
-**NytizSRC/NytizSRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionné par le développement en **Python**, je crée des **logiciels d'automatisation** performants et sécurisés.  
+📌 Expérience avec **OpenBullet2** et la configuration avancée de scripts d'automatisation.  
+⚡ Spécialisé dans le développement de **systèmes de vote automatisés** et d'autres outils sur mesure.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 🔹 **Langages** : Python (Flask, FastAPI), JavaScript
+- ⚙️ **Automatisation** : Selenium, Requests, OpenBullet2 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets & Contributions
+🔹 Développement de **bots d'automatisation** pour diverses plateformes  
+🔹 Création de **systèmes de vote automatisés** pour des serveurs et applications  
+🔹 Personnalisation et optimisation de **configurations OpenBullet2**  
